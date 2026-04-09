@@ -1,7 +1,12 @@
-- Awesome Work Environment
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+
 <br><br>
 
+<h2>Awesome Work Environment</h2>
+
+</div>
 # 💫 About Me:
 Here’s a clean, university-ready version you can directly use:<br><br>🔭 I’m currently working on building a strong foundation in Cloud Computing AWS , along with Blockchain Developer & developing beginner-level Android applications.<br><br>👯 I’m looking to collaborate on innovative software projects, especially in app development, problem-solving, and real-world tech solutions.<br><br>🤝 I’m looking for help with mastering advanced Cloud concepts, AWS, and understanding Cloud Architecture Design Fundamentals.<br><br>🌱 I’m currently learning Cloud Technology, Android Development, and improving my programming skills step by step.<br><br>💬 Ask me about programming basics, C language, beginner DSA problems, Python, JAVA, HTML, Android or anything related to tech learning.<br><br>⚡ Fun fact: I can speak multiple languages and love exploring new technologies while aiming to become a Cloud Architect.
 
