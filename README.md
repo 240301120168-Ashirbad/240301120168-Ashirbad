@@ -6,9 +6,7 @@
 
 <h1>☁️🧑🏻‍💻CLOUD ARCHITECT💻</h1>
 
-<p align="center" style="image-rendering: pixelated;">
-  <img width="370" src="https://user-images.githubusercontent.com/55270174/214356078-89430299-247d-4f1f-82f6-a41340df0949.gif" alt="example" />
-</p>
+
 
 <div align="center">
 <h1>💫 About Me:</h1>
