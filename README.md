@@ -4,6 +4,12 @@
 
 <br><br>
 
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:AshLynx-RTX4090-GT?theme=booru-r6gdrawfriends&padding=7&offset=0&scale=1.5&align=top&pixelated=1&darkmode=1"  />
+</div>
+
 <h1>☁️🧑🏻‍💻CLOUD ARCHITECT💻</h1>
 
 <div align="center">
