@@ -6,8 +6,6 @@
 
 <h1>☁️🧑🏻‍💻CLOUD ARCHITECT💻</h1>
 
-![Ashirbad's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
-
 <div align="center">
 <h1>💫 About Me:</h1>
 </div>
